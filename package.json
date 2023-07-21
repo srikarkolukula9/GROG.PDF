@@ -1,6 +1,6 @@
 {
-    "homepage": "https://main--spiffy-pithivier-b9227a.netlify.app/",
-    "name": "locofy-react-project",
+    "homepage": "https://grog-pdf.netlify.app/",
+    "name": "grog-pdf",
     "version": "0.1.0",
     "private": false,
     "dependencies": {
